@@ -1,0 +1,8 @@
+langchain 
+langchain_classic 
+langchain_openai  
+langchain_core 
+langchain_community 
+pypdf 
+faiss_cpu 
+langchain_chroma

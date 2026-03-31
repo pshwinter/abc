@@ -1,0 +1,11 @@
+# 환경 변수
+.env
+.env.*
+
+# 가상환경·캐시
+rag2/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
