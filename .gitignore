@@ -8,4 +8,11 @@ venv/
 .venv/
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
 .ipynb_checkpoints/
+
+# Streamlit
+streamlit_secrets.toml
+.streamlit/
